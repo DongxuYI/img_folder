@@ -1,0 +1,33 @@
+{
+  "timeStamp": 1511492006292,
+  "version": "v3",
+  "existMode": "timeoutAndLoop",
+  "timeout": "15",
+  "param": [
+    {
+      "id": "w1511491997264",
+      "name": "muma",
+      "type": "anim",
+      "subType": "screen",
+      "category": "anim",
+      "fps": "25",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "muma"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}
